@@ -2,6 +2,8 @@
 
 > JavaScript library for searching for strings in base64-encoded blobs.
 
+![Illustration of a large pink glowing crystal in a cave system.](https://static.bn.al/img/base64-search-hero.jpg)
+
 I sometimes need to check whether a blob of data with both plain and base64-encoded text contains a certain string. This may happen when analysing the traffic dump of a program or app for security or data protection research, for example.
 
 However, depending on the offset of the search string in the source string, it can be [base64-encoded in different ways](https://www.leeholmes.com/searching-for-content-in-base-64-strings/). Take a look at this JSON blob as an example:
