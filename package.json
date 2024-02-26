@@ -1,6 +1,6 @@
 {
     "name": "base64-search",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "description": "Generates all possible base64 encodings of a string to allow searching for that string in a base64-encoded blob",
     "main": "dist/index.js",
     "types": "dist/index.d.ts",
