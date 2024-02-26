@@ -1,3 +1,5 @@
+import { Buffer } from 'buffer/';
+
 /**
  * @param input The string or other data that you want to search for.
  * @returns An array of all possible base64 encodings of `input`.
